@@ -10,4 +10,10 @@ namespace CatalogServicesTDD.Tests
         {
         }
     }
+
+    //public Mock<CatalogContext> MoqCatalogContext()
+    //{
+    //    var mock = new Mock<CatalogContext>();
+    //    return mock;
+    //}
 }
