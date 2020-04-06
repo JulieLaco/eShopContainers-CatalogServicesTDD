@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogServicesTDD", "CatalogServicesTDD\CatalogServicesTDD.csproj", "{12B26F31-246E-4B08-B916-D4A266648B0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogServicesTDD.Tests", "CatalogServicesTDD.Tests\CatalogServicesTDD.Tests.csproj", "{75098211-AFF2-4020-A22B-E878EB85CD15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B26F31-246E-4B08-B916-D4A266648B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B26F31-246E-4B08-B916-D4A266648B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B26F31-246E-4B08-B916-D4A266648B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B26F31-246E-4B08-B916-D4A266648B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75098211-AFF2-4020-A22B-E878EB85CD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75098211-AFF2-4020-A22B-E878EB85CD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75098211-AFF2-4020-A22B-E878EB85CD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75098211-AFF2-4020-A22B-E878EB85CD15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DBE7EDC-F96F-49A6-ACF5-322AED888E2F}
+	EndGlobalSection
+EndGlobal
